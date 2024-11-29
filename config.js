@@ -38,13 +38,9 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "99.244.49.54",
-        port: 1046,
-        password: "XLEPOG1962",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: true
+      host: "server.relocation.tk",
+      port: 1032,
+      password:  "youshallnotpass"
     },
  ]
 }
