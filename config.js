@@ -38,9 +38,9 @@ module.exports = {
 
   nodes: [
    {
-    host: "lavalink.oops.wtf",
+    host: "lava-v4.ajieblogs.eu.org",
     port: 443,
-    password: "www.freelavalink.ga",
+    password: "https://dsc.gg/ajidevserver",
     secure: true,
 }
  ]
