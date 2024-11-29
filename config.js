@@ -37,11 +37,12 @@ module.exports = {
    // Lavalink Server Details
 
   nodes: [
-    {
-      host: " lava-v3.ajieblogs.eu.org",
-      port: 443,
-      password:  "https://dsc.gg/ajidevserver",
-    },
+   {
+    host: "lavalink.oops.wtf",
+    port: 443,
+    password: "www.freelavalink.ga",
+    secure: true,
+}
  ]
 }
 /*
