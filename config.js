@@ -38,9 +38,9 @@ module.exports = {
 
   nodes: [
     {
-      host: "server.relocation.tk",
-      port: 1032,
-      password:  "youshallnotpass"
+      host: " lava-v3.ajieblogs.eu.org",
+      port: 443,
+      password:  "https://dsc.gg/ajidevserver",
     },
  ]
 }
