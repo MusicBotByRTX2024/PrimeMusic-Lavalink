@@ -39,12 +39,12 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "nodev4.fypmoon.org",
-        port: 1118,
-        password: "fypmoon.org",
+        host: "usa.syntaxnodes.xyz",
+        port: 20013,
+        password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: false
+        secure: false 
     },
  ]
 }
