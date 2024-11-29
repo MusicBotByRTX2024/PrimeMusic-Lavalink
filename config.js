@@ -39,8 +39,8 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "usa.syntaxnodes.xyz",
-        port: 20013,
+        host: "server.relocation.tk",
+        port: 1032,
         password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
