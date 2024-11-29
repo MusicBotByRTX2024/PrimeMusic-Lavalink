@@ -39,12 +39,12 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "server.relocation.tk",
-        port: 1032,
-        password: "youshallnotpass",
+        host: "lavalink.oops.wtf",
+        port: 443,
+        password: "www.freelavalink.ga",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: false 
+        secure: true
     },
  ]
 }
