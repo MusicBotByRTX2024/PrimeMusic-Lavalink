@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lavalink.oops.wtf",
-        port: 443,
-        password: "www.freelavalink.ga",
+        host: "99.244.49.54",
+        port: 1046,
+        password: "XLEPOG1962",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: true
