@@ -30,7 +30,7 @@ module.exports = {
     try {
 
       const supportServerLink = "https://discord.gg/dZeptURQ";
-      const githubLink = "";
+      const instagramLink = "";
       const replitLink = "https://replit.com/@GlaceYT";
       const youtubeLink = "https://www.youtube.com/@GlaceYT";
         const embed = new EmbedBuilder()
