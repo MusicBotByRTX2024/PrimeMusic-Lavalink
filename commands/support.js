@@ -29,8 +29,8 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
+      const supportServerLink = "https://discord.gg/dZeptURQ";
+      const githubLink = "";
       const replitLink = "https://replit.com/@GlaceYT";
       const youtubeLink = "https://www.youtube.com/@GlaceYT";
         const embed = new EmbedBuilder()
