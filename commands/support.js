@@ -29,7 +29,7 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/dZeptURQ";
+      const supportServerLink = "https://discord.gg/4NkrjdW3Gn";
       const Instagramlink = "https://www.instagram.com/the_king_streamer/";
       const Twitchlink = "https://www.twitch.tv/matrax_demah";
       const youtubeLink = "https://www.youtube.com/@MATRAXBOY";
